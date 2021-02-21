@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[22],{93:function(o){o.exports=JSON.parse('{"allTagsPath":"/dawn-of-truth/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/dawn-of-truth/blog/tags/facebook"}')}}]);
